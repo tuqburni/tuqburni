@@ -5,7 +5,6 @@
 - 💻 Security Researcher.
 - 🌱 I’m currently learning **Ethical Hacking** and **Basic Programming**.
 - 🔒 CTF player.
-- 👩🏻‍💻 All of my projects are available at https://github.com/sxfwyz
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
