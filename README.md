@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there /ᐠ . ̫ .マ </h2>
 
-- 💻 Security Researcher.
+- 💻 Just a Cybersecurity enthusiast.
 - 🌱 I’m currently studying for **Security+** and **CJCA**.
 - 🔒 CTF player.
 
