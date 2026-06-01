@@ -1,8 +1,11 @@
-<h2 align="center"> Hi there /ᐠ . ̫ .マ </h2>
+  <h2 align="center"> Hi there /ᐠ . ̫ .マ </h2>
 
 - 💻 Just a Cybersecurity enthusiast.
-- 🌱 I’m currently studying for **Security+** and **CJCA**.
+- 🌱 I’m currently studying for **CJCA**.
 - 🔒 CTF player.
+
+<h3 align="left">Certifications</h3>
+<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="10%"/>
 
 <h3 align="left">Tools</h3>
 <p align="left">
